@@ -1,6 +1,6 @@
 # myshop
 
-该项目是我学习过程中做的一个Dubbo + zookeeper 的框架型，主流框架都有涉及。该项目使用GitLab做代码管理，使用Nexus做依赖私服，使用Registry做Docker镜像私服，使用GitLab Runner 和jenkins做持续集成。
+该项目是我学习过程中做的一个Dubbo + zookeeper 的常见的商城项目，主流框架都有涉及。该项目使用GitLab做代码管理，使用Nexus做依赖私服，使用Registry做Docker镜像私服，使用GitLab Runner 和jenkins做持续集成。
 
  该项目所有的项目支撑性框架都使用linux 虚拟机docker容器的方式提供服务，大体的虚拟机结构如下：
 
